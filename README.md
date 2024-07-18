@@ -3,6 +3,8 @@
 
 ## How to Use
 1. SSH into Pi
+  * U: photoframe
+  * P: Jijidabest
 
 ## Files
 * `Code`: Directory for simplified code to operate display.
