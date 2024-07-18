@@ -1,5 +1,5 @@
 # Livs-Gift
-* HAPPY BIRTHDAY LIV YOU OLD ASF! <3
+* HAPPY BIRTHDAY LIV! **YOU OLD ASF!** <3
 
 ## How to Use
 1. SSH into Pi
