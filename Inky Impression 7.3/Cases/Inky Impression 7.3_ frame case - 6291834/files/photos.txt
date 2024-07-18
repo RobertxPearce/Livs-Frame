@@ -1,0 +1,53 @@
+from PIL import Image #photo editing
+import os #file menageing
+import sys  # argument
+from inky.auto import auto  # display
+import time  # sleep
+
+
+def updater():
+    print("UPDATING...")
+    folder = "/home/mtryb/OneDrive/Mikołaj/Projectsrclone/FramePhotos/direct"
+    os.system('rm -r /home/mtryb/v2/cropped/*') #remove old files
+    os.system('cp -a /home/mtryb/OneDrive/Mikołaj/Projectsrclone/FramePhotos/cropped/. /home/mtryb/v2/cropped/') #copy new
+    for filename in os.scandir(folder):
+        print(filename.name)
+        img = Image.open(f'{folder}/{filename.name}')
+        base_width = 800
+
+        if img.size[0] < img.size[1]: #rotate vertical
+            img = img.transpose(Image.ROTATE_90)
+            # img.save('rotate.jpg')
+
+        # size 0 width size 1 height
+        wpercent = (base_width / float(img.size[0]))
+        hsize = int((float(img.size[1]) * float(wpercent)))
+        img = img.resize((base_width, hsize), Image.Resampling.LANCZOS) #resize
+
+        if img.size[1] > 480: #crop
+            croptop = (img.size[1]-480)/2
+            img = img.crop((0, croptop, img.size[0], img.size[1]-croptop))
+
+        img.save(f'/home/mtryb/v2/cropped/{filename.name}_autocrop.jpg')
+
+
+def shower():
+    print("SHOWTIME")
+    folder = "/home/mtryb/v2/cropped"
+    inky = auto(ask_user=True, verbose=True)  # inky
+    saturation = 1 #saturation 0-1
+
+    # ---------------------------------
+
+    while True:
+        updater()
+        for filename in os.scandir(folder):
+            image = Image.open(f'{folder}/{filename.name}')
+            resizedimage = image.resize(inky.resolution)
+
+            inky.set_image(resizedimage, saturation=saturation)
+            inky.show()
+            time.sleep(600)  # wait between photos
+        print("END OF ROUND")
+
+shower()
