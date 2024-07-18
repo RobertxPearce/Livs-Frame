@@ -18,6 +18,7 @@
 * Components
   * Inky Impression 7.3" (7 colour ePaper/E Ink HAT) by Pimoroni
   * Raspberry Pi Zero 2 W WH
+  * 32gb Micro SD Card (Headless Pi OS)
 
 ### Frame Assembly
 
