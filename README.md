@@ -5,12 +5,13 @@
 1. SSH into Pi
 
 ## Files
+* `Code`: Directory for simplified code to operate display.
+* `Cases`: 3D print files for display case.
+* `Photos`: Photos for display.
 * `Inky Impression 7.3`: Directory for Inky Impression display resources.
     *  `inky-main`: Pimoroni libraires, tools, and example code.
     * `Schematics`: Schematics for the display
     * `Drawing`: Drawing of the display for dimensions.
-* `Cases`: 3D print files for display case.
-* `Photos`: Photos for display.
 
 ## Build Process
 
