@@ -15,10 +15,9 @@
 ## Build Process
 
 ### Tech Assembly
-
-#### Components
-* Inky Impression 7.3" (7 colour ePaper/E Ink HAT) by Pimoroni
-* Raspberry Pi Zero 2 W WH
+* Components
+  * Inky Impression 7.3" (7 colour ePaper/E Ink HAT) by Pimoroni
+  * Raspberry Pi Zero 2 W WH
 
 ### Frame Assembly
 
