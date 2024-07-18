@@ -1,1 +1,0 @@
-Inky Impression 7.3" frame case by mikiklopsiki on Thingiverse: https://www.thingiverse.com/thing:6291834
