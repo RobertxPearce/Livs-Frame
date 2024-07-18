@@ -5,8 +5,7 @@ Robert **<3**
 
 ## How to Use
 1. SSH into Pi
-  * U: photoframe
-  * P: Jijidabest
+  - Username and password on back of frame.
 
 ## Files
 * `Code`: Directory for simplified code to operate display.
