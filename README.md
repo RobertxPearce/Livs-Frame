@@ -2,7 +2,7 @@
 * HAPPY BIRTHDAY LIV YOU OLD ASF! <3
 
 ## How to Use
-
+1. SSH into Pi
 
 ## Files
 * `Inky Impression 7.3`: Directory for Inky Impression display resources.
