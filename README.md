@@ -18,7 +18,6 @@ Robert **<3**
 
 ## Build Process
 
-
 ### Tech Assembly 🔧
 * Components
   * Inky Impression 7.3" (7 colour ePaper/E Ink HAT) by Pimoroni
