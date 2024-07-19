@@ -4,7 +4,7 @@ HAPPY BIRTHDAY LIV! <sub>*YOU OLD ASF!*<sub>**JK**</sub></sub>
 Robert **<3**
 
 ## How to Use
-1. SSH into Pi
+**1.** SSH into Pi
     * Username and password on back of frame.
 
 ## Files
