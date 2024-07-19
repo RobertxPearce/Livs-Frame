@@ -9,8 +9,8 @@ Robert **<3**
 
 ## Files
 * `Code`: Directory for simplified code to operate display.
-* `Cases`: 3D print files for display case.
 * `Photos`: Photos for display.
+* `Cases`: 3D print files for display case.
 * `Inky Impression 7.3`: Directory for Inky Impression display resources.
     *  `inky-main`: Pimoroni libraires, tools, and example code.
     * `Schematics`: Schematics for the display
