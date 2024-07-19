@@ -4,8 +4,13 @@ HAPPY BIRTHDAY LIV! <sub>*YOU OLD ASF!*<sub>**JK**</sub></sub>
 Robert **<3**
 
 ## How to Use
-**1.** SSH into Pi
-    * Username and password on back of frame.
+1. **SSH into Pi**
+  * Username and password on back of frame.
+2. **Move to Directory**
+  * Use command `cd /Desktop/livs-frame/Code`
+3. **Run the Program
+  * Use command `python loop_photos.py <album name>`
+  * Use command `python static_photo.py <photo location>`
 
 ## Files
 ### `Code`
