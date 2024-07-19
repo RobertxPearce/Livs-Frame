@@ -10,7 +10,7 @@ Robert **<3**
 ## Files
 * `Code`: Directory for simplified code to operate display.
 * `Photos`: Photos for display.
-* `Resources`: Resources from pimoroni and thingiverse.
+* `Resources`: Resources from Pimoroni and Thingiverse.
   * `Inky Impression 7.3`: Directory for Inky Impression display resources.
       * `inky-main`: Pimoroni libraires, tools, and example code.
       * `Schematics`: Schematics for the display
