@@ -8,13 +8,13 @@ Robert **<3**
     * Username and password on back of frame.
 
 ## Files
-* `Code`: Directory for simplified code to operate display.
-* `Photos`: Photos for display.
+### `Code`: Directory for simplified code to operate display.
+### `Photos`: Photos for display.
   * `Jiji`: Photos you sent me of Jiji :).
   * `Ghibli`: *Aesthetic* Ghibli art.
   * `Cats`: Crazy *aesthetic* photos of cats.
   * `Halloween`: Halloween themed photos because its october.
-* `Resources`: Resources from Pimoroni and Thingiverse.
+### `Resources`: Resources from Pimoroni and Thingiverse.
   * `Inky Impression 7.3`: Directory for Inky Impression display resources.
       * `inky-main`: Pimoroni libraires, tools, and example code.
       * `Schematics`: Schematics for the display
