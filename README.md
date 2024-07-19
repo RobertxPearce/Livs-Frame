@@ -8,7 +8,7 @@ Robert **<3**
     * Username and password on back of frame.
 2. **Move to Directory**
     * Use command `cd /Desktop/livs-frame/Code`
-3. **Run the Program
+3. **Run the Program**
     * Use command `python loop_photos.py <album name>`
     * Use command `python static_photo.py <photo location>`
 
