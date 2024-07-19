@@ -8,36 +8,6 @@ Robert **<3**
   * Username and password on back of frame.
 
 ## Files
-```
-├───Cases
-│   └───Inky Impression 7.3_ frame case - 6291834
-│       └───files
-├───Inky Impression 7.3
-│   └───inky-main
-│       └───inky-main
-│           ├───.github
-│           │   └───workflows
-│           ├───examples
-│           │   ├───7color
-│           │   │   ├───advanced
-│           │   │   ├───html
-│           │   │   └───images
-│           │   ├───phat
-│           │   │   └───resources
-│           │   ├───tests
-│           │   └───what
-│           │       └───resources
-│           ├───hardware
-│           ├───library
-│           │   ├───inky
-│           │   └───tests
-│           ├───sphinx
-│           │   ├───_static
-│           │   └───_templates
-│           └───tools
-└───Photos
-```
-
 * `Code`: Directory for simplified code to operate display.
 * `Cases`: 3D print files for display case.
 * `Photos`: Photos for display.
