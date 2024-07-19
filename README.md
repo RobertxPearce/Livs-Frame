@@ -1,5 +1,5 @@
 # Livs-Gift
-HAPPY BIRTHDAY LIV! *YOU OLD ASF!*
+HAPPY BIRTHDAY LIV! <sub>*YOU OLD ASF!*</sub>
 
 Robert **<3**
 
