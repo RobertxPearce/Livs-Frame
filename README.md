@@ -19,6 +19,7 @@ Robert **<3**
 * Photo albums I made for display.
   * `Jiji`: Photos you sent me of Jiji :).
   * `Ghibli`: *Aesthetic* Ghibli art.
+  * `Anime`: Cool anime photos and covers.
   * `Cats`: Crazy *aesthetic* photos of cats.
   * `Halloween`: Halloween themed photos because its october.
 ### `Resources`
