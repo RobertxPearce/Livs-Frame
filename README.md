@@ -1,7 +1,7 @@
 # Livs-Photo-Frame
 HAPPY BIRTHDAY LIV!
 
-<sup>**<3**</sup> <sub>**<3**</sub> Robert <sub>**<3**</sub> <sup>**<3**</sup>
+ Robert <sub><sub>**<3**</sub></sub> <sub>**<3**</sub> <sup>**<3**</sup> <sup><sup>**<3**</sup></sup>
 
 ## How to Use
 1. **SSH into Pi**
