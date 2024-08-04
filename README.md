@@ -29,16 +29,16 @@ Robert **<3**
     ```
 
 ## Files
-### `Code`
+### Code
 * Directory for custom code to operate display.
-### `Photos`
+### Photos
 * Photo albums I made for display.
   * `Jiji`: Photos you sent me of Jiji :).
   * `Ghibli`: *Aesthetic* Ghibli art.
   * `Anime`: Cool anime photos and covers.
   * `Cats`: Crazy *aesthetic* photos of cats.
   * `Halloween`: Halloween themed photos because its october.
-### `Resources`
+### Resources
 * Resources from Pimoroni and Thingiverse.
   * `Inky Impression 7.3`: Directory for Inky Impression display resources.
       * `inky-main`: Pimoroni libraires, tools, and example code.
