@@ -1,8 +1,8 @@
 # Code 💻
 
 ## `loop_photos.py`
-* Program to loop through a collection of photos.
-  * Use command `python loop_photos.py <album name>`
+* Program to loop through a album of photos.
+  * Use command ```bash python loop_photos.py <album name> ```
 
 ## `static_photo.py`
 * Program to display a static photo.
