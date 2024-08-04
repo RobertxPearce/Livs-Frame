@@ -5,12 +5,28 @@ Robert **<3**
 
 ## How to Use
 1. **SSH into Pi**
-    * Username and password on back of frame.
 2. **Move to Directory**
-    * Use command `cd /Desktop/livs-frame/Code`
-3. **Run the Program**
-    * Use command `python loop_photos.py <album name>`
-    * Use command `python static_photo.py <photo location>`
+   ```bash
+   cd /Desktop/livs-frame/Code
+   ```
+4. **Run the Program**
+   ```bash
+   python3 image_static.py
+   ```
+   ```bash
+   python3 image_loop.py
+   ```
+5. **Run Loop in Background**
+   ```bash
+   nohup python3 image_loop.py &
+   ```
+6. **To Kill Program**
+    ```bash
+    ps aus | grep image_loop.py
+    ```
+    ```bash
+    kill <PID>
+    ```
 
 ## Files
 ### `Code`
