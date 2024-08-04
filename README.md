@@ -1,5 +1,5 @@
 # Livs-Photo-Frame
-HAPPY BIRTHDAY LIV! <sub>*YOU OLD ASF!*<sub>**JK**</sub></sub>
+HAPPY BIRTHDAY LIV!
 
 Robert **<3**
 
