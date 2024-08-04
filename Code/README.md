@@ -2,8 +2,10 @@
 
 ## loop_photos.py
 * Program to loop through a album of photos.
-  * Use command `python loop_photos.py`
-  * Update Album Shown Edit: `directory_path = '../Photos/<Album Name>/'`
+  * To run use command: `python loop_photos.py`
+  * Update album shown edit: `directory_path = '../Photos/<Album Name>/'`
+  * Change duration of delay edit: `time.sleep(<TIME IN SECONDS>)`
 ## static_photo.py
 * Program to display a static photo.
-  * Use command `python static_photo.py`
+  * To run use command: `python static_photo.py`
+  * Update photo shown edit: `image_path = '../Photos/<Album Name>/<Photo>'`
