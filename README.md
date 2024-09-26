@@ -61,7 +61,5 @@
 * `static_photo.py`: Program to display a static photo.
 
 
-### Frame Assembly 🖼️
-
 
 
