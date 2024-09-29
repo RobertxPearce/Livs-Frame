@@ -1,7 +1,5 @@
 ### HAPPY BIRTHDAY LIV!
 
- Robert
-
 ## How to Use
 1. **SSH into Pi**
 2. **Move to Directory**
