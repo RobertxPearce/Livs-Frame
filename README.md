@@ -1,6 +1,6 @@
 ### HAPPY BIRTHDAY LIV!
 
- Robert **♡**
+ Robert
 
 ## How to Use
 1. **SSH into Pi**
