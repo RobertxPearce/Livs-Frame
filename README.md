@@ -4,7 +4,7 @@
 1. **SSH into Pi**
 2. **Move to Directory**
    ```bash
-   cd /Desktop/livs-frame/Code
+   cd /Desktop/Livs-Frame/Code
    ```
 4. **Run the Program**
    ```bash
