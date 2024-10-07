@@ -2,7 +2,10 @@
 
 ## How to Use
 1. **SSH into Pi**
-2. **Move to Directory**
+   ```bash
+   ssh user@piframe
+   ```
+3. **Move to Directory**
    ```bash
    cd /Desktop/Livs-Frame/Code
    ```
